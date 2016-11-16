@@ -306,6 +306,7 @@
 				40206B4E1DB0182700CAF0A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
